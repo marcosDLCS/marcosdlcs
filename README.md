@@ -7,17 +7,17 @@
 
 Senior developer with experience in architecture / backend / CI-CD:
 
-- Working actively with JVM ecosystem: **Java** (17, 21), **Kotlin**, Spring Framework, **Spring Boot** and Spring Cloud.
+- ☕ Working actively with JVM ecosystem: **Java** (17, 21), **Kotlin**, Spring Framework, **Spring Boot** and Spring Cloud.
 
-- DB experience: **PostgreSQL**, **MongoDB** & **Redis**. Asynchronous communication with **Apache Kafka** & ActiveMQ.
+- 📦 DB experience: **PostgreSQL**, **MongoDB** & **Redis**. Asynchronous communication with **Apache Kafka** & ActiveMQ.
 
-- DevOps lifecycle: VCS with GIT, Maven and Gradle, CI/CD with Jenkins / Gitlab / Github Actions, SonarQube. **Docker** and **Kubernetes**.
+- 🌊 DevOps lifecycle: VCS with GIT, Maven and Gradle, CI/CD with Jenkins / Gitlab / Github Actions, SonarQube. **Docker** and **Kubernetes**.
 
-- Testing with JUnit 5, Mockito, AssertJ, ArchUnit, TestContainers. BDD with Cucumber.
+- ✅ Testing with JUnit 5, Mockito, AssertJ, ArchUnit, TestContainers. BDD with Cucumber.
 
-- I have played with **Azure** and **AWS** as cloud providers.
+- 🌩️ I have played with **Azure** and **AWS** as cloud providers.
 
-- Applying practices, patterns and principles of **clean architecture**, microservices architecture and **Domain-Driven Design** (DDD) to day-to-day projects. Working with reactive and **event-driven applications**.
+- 🛁 Applying practices, patterns and principles of **clean architecture**, microservices architecture and **Domain-Driven Design** (DDD) to day-to-day projects. Working with reactive and **event-driven applications**.
 
 #### My social accounts
 
