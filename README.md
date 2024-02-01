@@ -1,22 +1,23 @@
 ### Hello everyone, 👋
 
-- 🔭 I’m currently working @ [**ManoMano**](https://github.com/ManoManoTech)
+- 🔭 I’m currently working @ [**SEAT:CODE**](https://github.com/seatcode)
 - 📫 How to reach me: **https://mdlcs.dev/**
 
 #### My skills
 
-Senior developer with experience in architecture / backend / CI-CD / software craftsmanship:
+Senior developer with experience in architecture / backend / CI-CD:
 
-* Working actively with JVM ecosystem: **Java** (8, 11, 17), **Kotlin**, Spring Framework, **SpringBoot** (2.x) and Spring Cloud.
+- Working actively with JVM ecosystem: **Java** (17, 21), **Kotlin**, Spring Framework, **Spring Boot** and Spring Cloud.
 
-* Database / persistence experience: **PostgreSQL**, **MongoDB** & **Redis**. Asynchronous communication with **Apache Kafka** & ActiveMQ.
+- DB experience: **PostgreSQL**, **MongoDB** & **Redis**. Asynchronous communication with **Apache Kafka** & ActiveMQ.
 
-* DevOps lifecycle: VCS with GIT, Maven and Gradle, CI/CD with Jenkins / Gitlab, SonarQube and Nexus. **Docker** and **Kubernetes** (K8s).
+- DevOps lifecycle: VCS with GIT, Maven and Gradle, CI/CD with Jenkins / Gitlab / Github Actions, SonarQube. **Docker** and **Kubernetes**.
 
-* Testing with JUnit 5, Mockito, AssertJ, ArchUnit, TestContainers. BDD with Cucumber.
+- Testing with JUnit 5, Mockito, AssertJ, ArchUnit, TestContainers. BDD with Cucumber.
 
-* Applying practices, patterns and principles of **clean architecture**, microservices architecture and **Domain-Driven Design** (DDD) to day-to-day projects. Working with reactive and **event-driven applications**.
+- I have played with **Azure** and **AWS** as cloud providers.
 
+- Applying practices, patterns and principles of **clean architecture**, microservices architecture and **Domain-Driven Design** (DDD) to day-to-day projects. Working with reactive and **event-driven applications**.
 
 #### My social accounts
 
@@ -33,5 +34,3 @@ Senior developer with experience in architecture / backend / CI-CD / software cr
 ---
 
 Nice to see you here! 🥹
-
-
