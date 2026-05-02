@@ -23,13 +23,6 @@ Senior developer with experience in architecture / backend / CI-CD:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcosdlcs/)
 
-#### My Github stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosdlcs&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdlcs&hide_border=false&layout=compact&langs_count=6"/>
-</p>
-
 ---
 
 Nice to see you here! 🥹
